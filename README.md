@@ -40,7 +40,7 @@ Users Service — это REST API для работы с пользовател�
 ## 📦 Установка и запуск
 
 ### 1️⃣ Клонировать репозиторий
-    git clone [https://github.com/YOUR_NAME/users-service.git](https://github.com/Killerka769/test-task2)
+    git clone https://github.com/Killerka769/test-task2
     cd users-service
 ### 2️⃣ Установить зависимости
     npm install
@@ -101,4 +101,5 @@ Users Service — это REST API для работы с пользовател�
 🗄 Схема БД в prisma/schema.prisma
 
 🔥 Проект выполнен как тестовое задание для **Effective Mobile**, но может быть расширен в боевое приложение.
+
 
